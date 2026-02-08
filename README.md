@@ -549,8 +549,6 @@ This system identifies **why** certain patterns occur in conversations:
 
 ---
 
-## 📧 Support & Contribution
-
 ### Running into Issues?
 
 1. Check the **Troubleshooting** section above
@@ -589,9 +587,6 @@ This project is part of the IIT BBSR Hackathon submission.
 
 ---
 
-## 📞 Contact
-
-For questions or issues regarding this project, please refer to the project documentation or reach out to the development team.
 
 ---
 
