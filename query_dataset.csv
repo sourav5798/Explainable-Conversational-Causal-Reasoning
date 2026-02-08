@@ -1,0 +1,11 @@
+query_id,query_text,expected_intent,task_type,is_followup,notes
+Q1,Why do customers escalate complaints?,complaint_escalation,task1,no,Primary causal explanation query
+Q2,What causes repeated customer complaints?,complaint_escalation,task1,no,Checks repetition signal
+Q3,Why are customers asking for managers so often?,complaint_escalation,task1,no,Escalation trigger
+Q4,Why do customers escalate complaints?,complaint_escalation,task2,no,Initial chat query
+Q5,Why does this happen so frequently?,complaint_escalation,task2,yes,Follow-up relies on memory
+Q6,Why are customers so frustrated?,customer_frustration,task2,no,Emotion-driven query
+Q7,Why do unresolved issues lead to escalation?,complaint_escalation,task2,no,Causal chain validation
+Q8,Is agent delay a reason for escalation?,agent_performance,task2,no,Agent behavior analysis
+Q9,Why does the same issue keep happening?,systemic_issue,task2,yes,Context continuation
+Q10,Why do customers lose trust after repeated issues?,trust_breakdown,task2,no,Higher-level reasoning
